@@ -6,7 +6,7 @@ package com.skplanet.h1_strategy;
 public class MuteQuack implements QuackBehavior {
     @Override
     public void quack() {
-        System.out.println("<< mute >>");
+        System.out.println("이 오리는 소리를 내지 않습니다.");
 
     }
 }

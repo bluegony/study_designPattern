@@ -6,7 +6,7 @@ package com.skplanet.h1_strategy;
 public class Quack implements QuackBehavior {
     @Override
     public void quack() {
-        System.out.println("qqack");
+        System.out.println("qqack!");
 
     }
 }

@@ -15,7 +15,7 @@ public class Main {
         Duck model = new ModelDuck();
         model.swim();
         model.performQuack();
-        model.setQuackBehavior(new Squack());
+        model.setQuackBehavior(new Bbick());
         model.performQuack();
     }
 }
